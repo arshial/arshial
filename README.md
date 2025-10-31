@@ -30,7 +30,8 @@ I combine **software development** with **visual creativity**, building projects
 🛒 Frontend dashboard + REST API + PostgreSQL  
 
 🔹 **Bio-oil ML Model** – Python + Scikit-learn  
-⚙️ Predictive model for bio-oil yield optimization  
+⚙️ Predictive model for bio-oil yield optimization
+Repo: https://github.com/arshial/bio-oil-ml
 
 🔹 **Bar Order App** – Mobile/web ordering system  
 ☕ Real-time orders, database sync, and UI dashboard  
