@@ -1,3 +1,4 @@
+![7B7AAD11-4472-47BA-BE81-E79CAF5FC8F4 2](https://github.com/user-attachments/assets/d8204aad-5d59-4be2-9833-fc9b7bf63625)
 # 👋 Hi, I'm Arshia Lashgari  
 
 **Full-stack Developer & Creative Engineer**  
