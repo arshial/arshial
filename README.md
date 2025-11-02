@@ -34,8 +34,6 @@ Repo: https://github.com/arshial/ecommerce-app
 ⚙️ Predictive model for bio-oil yield optimization
 Repo: https://github.com/arshial/bio-oil-ml
 
-🔹 **Bar Order App** – Mobile/web ordering system  
-☕ Real-time orders, database sync, and UI dashboard  
 
 ---
 
