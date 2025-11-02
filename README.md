@@ -28,6 +28,7 @@ I combine **software development** with **visual creativity**, building projects
 ## 🚀 Featured Projects  
 🔹 **E-commerce App** –  Spring Boot  
 🛒 REST API + PostgreSQL  
+Repo: https://github.com/arshial/ecommerce-app
 
 🔹 **Bio-oil ML Model** – Python + Scikit-learn  
 ⚙️ Predictive model for bio-oil yield optimization
