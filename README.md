@@ -19,15 +19,15 @@ I combine **software development** with **visual creativity**, building projects
 ---
 
 ## 🧰 Skills  
-**Languages:** Python, Java, TypeScript, SQL  
+**Languages:** Python, Java, TypeScript, SQL, Swift   
 **Frameworks:** Spring Boot, Angular, FastAPI  
 **Tools:** Git, Docker, Photoshop, Premiere, VS Code  
 
 ---
 
 ## 🚀 Featured Projects  
-🔹 **E-commerce App** – Angular + Spring Boot  
-🛒 Frontend dashboard + REST API + PostgreSQL  
+🔹 **E-commerce App** –  Spring Boot  
+🛒 REST API + PostgreSQL  
 
 🔹 **Bio-oil ML Model** – Python + Scikit-learn  
 ⚙️ Predictive model for bio-oil yield optimization
