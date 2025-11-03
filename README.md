@@ -28,15 +28,15 @@ I combine **software development** with **visual creativity**, building projects
 ## 🚀 Featured Projects  
 🔹 **E-commerce App** –  Spring Boot  
 🛒 REST API + PostgreSQL  
-Repo: https://github.com/arshial/ecommerce-app
+- Repo: https://github.com/arshial/ecommerce-app
 
 🔹 **Bio-oil ML Model** – Python  
 ⚙️ Predictive model for bio-oil yield optimization
-Repo: https://github.com/arshial/bio-oil-ml
+- Repo: https://github.com/arshial/bio-oil-ml
 
 🔹 **Ai-mood-tracker** – Python
 🧠 Track your daily mood with AI — multilingual sentiment analysis powered by Hugging Face & FastAPI.
-Repo: https://github.com/arshial/AI-Mood-Tracker
+- Repo: https://github.com/arshial/AI-Mood-Tracker
 
 ---
 
