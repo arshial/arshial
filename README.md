@@ -32,7 +32,9 @@ Repo: https://github.com/arshial/ecommerce-app
 
 🔹 **Bio-oil ML Model** – Python + Scikit-learn  
 ⚙️ Predictive model for bio-oil yield optimization 
+
 Repo: https://github.com/arshial/bio-oil-ml
+
 
 ---
 
