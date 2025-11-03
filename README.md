@@ -31,8 +31,7 @@ I combine **software development** with **visual creativity**, building projects
 Repo: https://github.com/arshial/ecommerce-app
 
 🔹 **Bio-oil ML Model** – Python + Scikit-learn  
-⚙️ Predictive model for bio-oil yield optimization 
-
+⚙️ Predictive model for bio-oil yield optimization
 Repo: https://github.com/arshial/bio-oil-ml
 
 
