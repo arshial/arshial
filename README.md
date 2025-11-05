@@ -43,6 +43,12 @@ I combine **software development** with **visual creativity**, building projects
 **Tech:** Python | FastAPI | Hugging Face  
 🧠 Tracks your daily mood using multilingual sentiment analysis powered by AI.
 
+---
+
+### 🔹 [InfoClass](https://github.com/arshial/infoclass)
+**Tech:** Python | scikit-learn | NLP | TF-IDF | Logistic Regression  
+🧠 A modular and intelligent text classification framework that learns to categorize any dataset from CSV input.  
+Supports model training, evaluation, and prediction — all with a clean architecture and ready-to-extend ML pipeline.
 
 ---
 
