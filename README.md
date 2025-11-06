@@ -21,7 +21,7 @@ I combine **software development** with **visual creativity**, building projects
 ## 🧰 Skills  
 **Languages:** Python, Java, TypeScript, SQL, Swift   
 **Frameworks:** Spring Boot, Angular, FastAPI  
-**Tools:** Git, Docker, Photoshop, Premiere, VS Code  
+**Tools:** Git, Docker, Photoshop, Premiere, VS Code, Git, Postman
 
 ---
 
