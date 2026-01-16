@@ -52,7 +52,7 @@ Supports model training, evaluation, and prediction — all with a clean archite
 
 ---
 
-### 🔹 [PinchHUD]([https://github.com/arshial/PhantomGrid](https://github.com/arshial/PinchHUD))
+### 🔹 [PinchHUD](https://github.com/arshial/PinchHUD)
 **Tech:** Python | OpenCV | MediaPipe | Computer Vision  
 🖐️ A real-time hand-tracked HUD that lets you **draw and erase an invisible grid** using pinch gestures.  
 Transforms empty space into a digital canvas through gesture control and computer vision.
