@@ -59,6 +59,12 @@ Transforms empty space into a digital canvas through gesture control and compute
 
 ---
 
+### 🔹 [Marea Comune](https://github.com/arshial/marea-comune)
+**Tech:** Angular | Spring Boot | PostgreSQL | Docker<br>
+🌊 A full-stack website and CMS for a Naples social initiative, with editable content, media management, an admin dashboard, and containerized deployment.
+
+---
+
 ## 🖥️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
