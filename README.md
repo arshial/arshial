@@ -27,6 +27,12 @@ I combine **software development** with **visual creativity**, building projects
 
 ## 🚀 Featured Projects
 
+### 🔹 [Saffron Table](https://github.com/arshial/saffron-table)
+**Tech:** Angular | Spring Boot | PostgreSQL | Docker | Stripe<br>
+🌾 A portfolio-ready restaurant platform with reservations, event ticketing, QR check-in, role-based operations, transactional email, and local print-agent support.
+
+---
+
 ### 🔹 [E-commerce App](https://github.com/arshial/ecommerce-app)
 **Tech:** Spring Boot | REST API | PostgreSQL  
 🛒 A full-featured backend for an e-commerce platform with product management, authentication, and order tracking.
