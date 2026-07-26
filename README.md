@@ -33,6 +33,12 @@ I combine **software development** with **visual creativity**, building projects
 
 ---
 
+### 🔹 [Atelier Aurea](https://github.com/arshial/atelier-aurea)
+**Tech:** Angular | Spring Boot | PostgreSQL | Docker<br>
+🧵 A portfolio-ready content platform for a fictional tailoring atelier, with a responsive public showcase, protected CMS, grouped galleries, image uploads, inquiry management, Flyway migrations, and containerized deployment.
+
+---
+
 ### 🔹 [E-commerce App](https://github.com/arshial/ecommerce-app)
 **Tech:** Spring Boot | REST API | PostgreSQL  
 🛒 A full-featured backend for an e-commerce platform with product management, authentication, and order tracking.
