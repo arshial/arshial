@@ -27,6 +27,12 @@ I combine **software development** with **visual creativity**, building projects
 
 ## 🚀 Featured Projects
 
+### 🔹 [GardenOps](https://github.com/arshial/gardenops)
+**Tech:** Swift | SwiftUI | SwiftData | MultipeerConnectivity<br>
+🌿 A local-first operations app for gardening and maintenance teams, covering scheduling, customers, field work, projects, collaborators, expenses, invoicing, collections, reporting, backup, and encrypted peer-to-peer sync across iPhone, iPad, and Mac.
+
+---
+
 ### 🔹 [Saffron Table](https://github.com/arshial/saffron-table)
 **Tech:** Angular | Spring Boot | PostgreSQL | Docker | Stripe<br>
 🌾 A portfolio-ready restaurant platform with reservations, event ticketing, QR check-in, role-based operations, transactional email, and local print-agent support.
