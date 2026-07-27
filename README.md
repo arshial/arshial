@@ -33,6 +33,12 @@ I combine **software development** with **visual creativity**, building projects
 
 ---
 
+### 🔹 [Crypto Decision Lab](https://github.com/arshial/crypto-decision-lab)
+**Tech:** Python | PySide6 | scikit-learn | CCXT | SQLite<br>
+📊 A read-only desktop research application that turns crypto market data into BUY / SELL / HOLD signals using cost-aware machine learning, data-quality gates, walk-forward validation, and out-of-sample backtesting.
+
+---
+
 ### 🔹 [Saffron Table](https://github.com/arshial/saffron-table)
 **Tech:** Angular | Spring Boot | PostgreSQL | Docker | Stripe<br>
 🌾 A portfolio-ready restaurant platform with reservations, event ticketing, QR check-in, role-based operations, transactional email, and local print-agent support.
