@@ -1,0 +1,6 @@
+interface:
+  display_name: "Web Design Director"
+  short_description: "Design polished accessible web and 3D experiences"
+  default_prompt: "Use $web-design-director to design or improve this web experience with clear hierarchy, responsive behavior, accessibility, performance, and purposeful motion or 3D."
+policy:
+  allow_implicit_invocation: true
