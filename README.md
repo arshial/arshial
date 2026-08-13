@@ -27,6 +27,12 @@ I combine **software development** with **visual creativity**, building projects
 
 ## 🚀 Featured Projects
 
+### 🔹 [Notch Manager](https://github.com/arshial/notch-manager)
+**Tech:** Swift | SwiftUI | AppKit | AVFoundation<br>
+🖥️ A native macOS utility that turns the MacBook notch into a compact workspace for temporary files, clipboard history, camera and screen previews, and media controls.
+
+---
+
 ### 🔹 [GardenOps](https://github.com/arshial/gardenops)
 **Tech:** Swift | SwiftUI | SwiftData | MultipeerConnectivity<br>
 🌿 A local-first operations app for gardening and maintenance teams, covering scheduling, customers, field work, projects, collaborators, expenses, invoicing, collections, reporting, backup, and encrypted peer-to-peer sync across iPhone, iPad, and Mac.
